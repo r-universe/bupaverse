@@ -1,0 +1,34 @@
+[
+  {
+    "package": "bupaR",
+    "oncran": true
+  },
+  {
+    "package": "daqapo",
+    "oncran": true
+  },
+  {
+    "package": "edeaR",
+    "oncran": true
+  },
+  {
+    "package": "eventdataR",
+    "oncran": true
+  },
+  {
+    "package": "heuristicsmineR",
+    "oncran": true
+  },
+  {
+    "package": "processanimateR",
+    "oncran": true
+  },
+  {
+    "package": "processcheckR",
+    "oncran": true
+  },
+  {
+    "package": "processmapR",
+    "oncran": true
+  }
+]
