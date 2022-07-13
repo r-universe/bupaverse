@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "daqapo",
+    "oncran": true
+  },
+  {
     "package": "edeaR",
     "oncran": true
   },
