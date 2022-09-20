@@ -28,6 +28,16 @@
 	url = https://github.com/bupaverse/heuristicsminer
 	shallow = true
 	registered = true
+[submodule "processanimateR"]
+	path = processanimateR
+	url = https://github.com/bupaverse/processanimater
+	shallow = true
+	registered = true
+[submodule "processcheckR"]
+	path = processcheckR
+	url = https://github.com/bupaverse/processcheckr
+	shallow = true
+	registered = true
 [submodule "processmapR"]
 	path = processmapR
 	url = https://github.com/bupaverse/processmapr
