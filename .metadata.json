@@ -20,14 +20,6 @@
     "oncran": true
   },
   {
-    "package": "processanimateR",
-    "oncran": true
-  },
-  {
-    "package": "processcheckR",
-    "oncran": true
-  },
-  {
     "package": "processmapR",
     "oncran": true
   }
