@@ -8,6 +8,11 @@
 	url = https://github.com/bupaverse/bupar
 	shallow = true
 	registered = true
+[submodule "bupaverse"]
+	path = bupaverse
+	url = https://github.com/bupaverse/bupaverse
+	shallow = true
+	registered = true
 [submodule "daqapo"]
 	path = daqapo
 	url = https://github.com/bupaverse/daqapo

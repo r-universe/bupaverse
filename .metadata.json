@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "bupaverse",
+    "oncran": true
+  },
+  {
     "package": "daqapo",
     "oncran": true
   },
