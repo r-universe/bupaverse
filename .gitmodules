@@ -48,3 +48,8 @@
 	url = https://github.com/bupaverse/processmapr
 	shallow = true
 	registered = true
+[submodule "psmineR"]
+	path = psmineR
+	url = https://github.com/bupaverse/psminer
+	shallow = true
+	registered = true
