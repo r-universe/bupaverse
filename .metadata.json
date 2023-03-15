@@ -1,22 +1,6 @@
 [
   {
-    "package": "bupaR",
-    "oncran": true
-  },
-  {
-    "package": "bupaverse",
-    "oncran": true
-  },
-  {
     "package": "daqapo",
-    "oncran": true
-  },
-  {
-    "package": "edeaR",
-    "oncran": true
-  },
-  {
-    "package": "eventdataR",
     "oncran": true
   },
   {
@@ -28,15 +12,31 @@
     "oncran": true
   },
   {
-    "package": "processcheckR",
+    "package": "edeaR",
     "oncran": true
   },
   {
-    "package": "processmapR",
+    "package": "bupaverse",
     "oncran": true
   },
   {
     "package": "psmineR",
+    "oncran": true
+  },
+  {
+    "package": "processcheckR",
+    "oncran": true
+  },
+  {
+    "package": "eventdataR",
+    "oncran": true
+  },
+  {
+    "package": "bupaR",
+    "oncran": true
+  },
+  {
+    "package": "processmapR",
     "oncran": true
   }
 ]

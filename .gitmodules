@@ -3,29 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "bupaR"]
-	path = bupaR
-	url = https://github.com/bupaverse/bupar
-	shallow = true
-	registered = true
-[submodule "bupaverse"]
-	path = bupaverse
-	url = https://github.com/bupaverse/bupaverse
-	shallow = true
-	registered = true
 [submodule "daqapo"]
 	path = daqapo
 	url = https://github.com/bupaverse/daqapo
-	shallow = true
-	registered = true
-[submodule "edeaR"]
-	path = edeaR
-	url = https://github.com/bupaverse/edear
-	shallow = true
-	registered = true
-[submodule "eventdataR"]
-	path = eventdataR
-	url = https://github.com/bupaverse/eventdatar
 	shallow = true
 	registered = true
 [submodule "heuristicsmineR"]
@@ -38,18 +18,38 @@
 	url = https://github.com/bupaverse/processanimater
 	shallow = true
 	registered = true
-[submodule "processcheckR"]
-	path = processcheckR
-	url = https://github.com/bupaverse/processcheckr
+[submodule "edeaR"]
+	path = edeaR
+	url = https://github.com/bupaverse/edear
 	shallow = true
 	registered = true
-[submodule "processmapR"]
-	path = processmapR
-	url = https://github.com/bupaverse/processmapr
+[submodule "bupaverse"]
+	path = bupaverse
+	url = https://github.com/bupaverse/bupaverse
 	shallow = true
 	registered = true
 [submodule "psmineR"]
 	path = psmineR
 	url = https://github.com/bupaverse/psminer
+	shallow = true
+	registered = true
+[submodule "processcheckR"]
+	path = processcheckR
+	url = https://github.com/bupaverse/processcheckr
+	shallow = true
+	registered = true
+[submodule "eventdataR"]
+	path = eventdataR
+	url = https://github.com/bupaverse/eventdatar
+	shallow = true
+	registered = true
+[submodule "bupaR"]
+	path = bupaR
+	url = https://github.com/bupaverse/bupar
+	shallow = true
+	registered = true
+[submodule "processmapR"]
+	path = processmapR
+	url = https://github.com/bupaverse/processmapr
 	shallow = true
 	registered = true
