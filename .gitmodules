@@ -33,6 +33,11 @@
 	url = https://github.com/bupaverse/heuristicsminer
 	shallow = true
 	registered = true
+[submodule "petrinetR"]
+	path = petrinetR
+	url = https://github.com/bupaverse/petrinetr
+	shallow = true
+	registered = true
 [submodule "processanimateR"]
 	path = processanimateR
 	url = https://github.com/bupaverse/processanimater
