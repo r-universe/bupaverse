@@ -23,9 +23,6 @@
 [submodule "petrinetR"]
 	path = petrinetR
 	url = https://github.com/bupaverse/petrinetr
-[submodule "processanimateR"]
-	path = processanimateR
-	url = https://github.com/bupaverse/processanimater
 [submodule "processcheckR"]
 	path = processcheckR
 	url = https://github.com/bupaverse/processcheckr
