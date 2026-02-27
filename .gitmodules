@@ -17,9 +17,6 @@
 [submodule "eventdataR"]
 	path = eventdataR
 	url = https://github.com/bupaverse/eventdatar
-[submodule "heuristicsmineR"]
-	path = heuristicsmineR
-	url = https://github.com/bupaverse/heuristicsminer
 [submodule "petrinetR"]
 	path = petrinetR
 	url = https://github.com/bupaverse/petrinetr
