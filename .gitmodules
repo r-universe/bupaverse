@@ -5,9 +5,6 @@
 [submodule "bupaR"]
 	path = bupaR
 	url = https://github.com/bupaverse/bupar
-[submodule "bupaverse"]
-	path = bupaverse
-	url = https://github.com/bupaverse/bupaverse
 [submodule "daqapo"]
 	path = daqapo
 	url = https://github.com/bupaverse/daqapo
