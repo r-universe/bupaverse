@@ -14,9 +14,6 @@
 [submodule "eventdataR"]
 	path = eventdataR
 	url = https://github.com/bupaverse/eventdatar
-[submodule "petrinetR"]
-	path = petrinetR
-	url = https://github.com/bupaverse/petrinetr
 [submodule "processcheckR"]
 	path = processcheckR
 	url = https://github.com/bupaverse/processcheckr
